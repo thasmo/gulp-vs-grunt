@@ -1,0 +1,28 @@
+{
+  "name": "@thasmo/gulp-vs-grunt",
+  "description": "Personal project to document and tinker with basic differences between Gulp and Grunt.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/thasmo/gulp-vs-grunt"
+  },
+  "devDependencies": {
+    "gulp": "~3.9",
+    "gulp-plumber": "~1.0",
+    "gulp-load-plugins": "~0.10",
+    "gulp-sass": "~2.0",
+    "gulp-cssnano": "~2.0",
+    "gulp-autoprefixer": "~3.0",
+    "gulp-concat": "~2.6",
+    "gulp-uglify": "~1.4",
+    "grunt": "~0.4",
+    "load-grunt-tasks": "~3.3",
+    "grunt-contrib-concat": "~0.5",
+    "grunt-contrib-uglify": "~0.9",
+    "grunt-contrib-watch": "~0.6",
+    "grunt-sass": "~1.0",
+    "grunt-cssnano": "~2.0",
+    "grunt-autoprefixer": "~3.0",
+    "grunt-concurrent": "~2.0"
+  }
+}
